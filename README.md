@@ -27,7 +27,7 @@ remember excel formula for myself
 
 
 5、一番複雑</br> 
-一番複雑のトランスフォーメーションが十個ぐらいでした。</br> 
+一番複雑のトランスフォーメーションが十個ぐらいでした。</br>
 
 ６．出社抵抗感ありますか？</br> 
 大丈夫です。今の案件でも現場出社です。</br> 
@@ -36,6 +36,5 @@ remember excel formula for myself
 ７、powercenterしていますか</br> 
 よく知っていないが、インターネットで探した、ETLのツールです。</br> 
 
-
 我问的：</br> 
-お昼はどこで食べますか</br> 
+お昼はどこで食べますか</br> [%E6%81%90%E6%80%96%E5%A4%8D%E8%8B%8F.txt](https://github.com/qwqqqqq/excel-formula-learning/files/8849165/E6.81.90.E6.80.96.E5.A4.8D.E8.8B.8F.txt)
